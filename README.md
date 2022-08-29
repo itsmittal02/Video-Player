@@ -1,0 +1,2 @@
+# Video-Player
+Video_Player(By Using Java Server Pages-------> JSP) Video Player Like YouTube You can Register &amp; Login , Add Your Channel &amp; Edit &amp; Delete Channel,View Channel Video &amp; Edit &amp; Delete Channel Video,Add Video in Channel &amp; Add Thumbnail &amp; mp4. You Can Play Video &amp; Like &amp; Dislike &amp; View &amp; Comment on Video ,also comment like &amp; dislike &amp; edit &amp; delete This Website is created by using HTML , CSS , JAVASCRIPT,JQUREY , BOOTSTRAP,ADV. JAVA , JSP, .Jquery 
