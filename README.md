@@ -7,21 +7,23 @@ Video_Player(By Using Java Server Pages-------> JSP) Video Player Like YouTube Y
 
                                            <!-- index.jsp-->
                                             
-     ![Screenshot (624)](https://user-images.githubusercontent.com/94986091/188465042-31429dc8-4268-4783-ade3-b8b1ca90632a.png)
+     ![Screenshot (624)](https://user-images.githubusercontent.com/94986091/188493324-f2589c34-45bf-47dc-92df-67424b8e08f3.png)
+
      ![Screenshot (650)](https://user-images.githubusercontent.com/94986091/188465250-116772bb-a9a3-4452-9d79-9c3aed333bdd.png)
      
      
-                             <!-- See All.jsp-->
+                                       <!-- See All.jsp-->
                               
-     ![Screenshot (627)](https://user-images.githubusercontent.com/94986091/188490998-e7d912e7-c2b7-4dbe-9be7-b60376598084.png)
+      ![Screenshot (627)](https://user-images.githubusercontent.com/94986091/188490998-e7d912e7-c2b7-4dbe-9be7-b60376598084.png)
      
-            <!--Login Model-->
+                                 <!--Login Model-->
             
-     ![Screenshot (625)](https://user-images.githubusercontent.com/94986091/188491260-2a8f103f-e041-4dcc-8f53-c93b4633e568.png)
+      ![Screenshot (625)](https://user-images.githubusercontent.com/94986091/188491260-2a8f103f-e041-4dcc-8f53-c93b4633e568.png)
 
-     <!-- Registeration Model-->
+    
+                                <!-- Registeration Model-->
      
-     ![Screenshot (626)](https://user-images.githubusercontent.com/94986091/188491307-9ea10b98-87ca-4db6-8579-9e227774831d.png)
+      ![Screenshot (626)](https://user-images.githubusercontent.com/94986091/188491307-9ea10b98-87ca-4db6-8579-9e227774831d.png)
 
 
 
@@ -46,15 +48,18 @@ Video_Player(By Using Java Server Pages-------> JSP) Video Player Like YouTube Y
    ![Screenshot (642)](https://user-images.githubusercontent.com/94986091/188491857-067f800f-ad27-4949-86cf-977866637e21.png)
 
 
-                                       <!-- Add Video-->
-    ![Screenshot (643)](https://user-images.githubusercontent.com/94986091/188491934-fe3d4937-6edf-4c3f-bd32-073e07e47da2.png)
+                                       
+                                            <!-- Add Video-->
+     ![Screenshot (643)](https://user-images.githubusercontent.com/94986091/188491934-fe3d4937-6edf-4c3f-bd32-073e07e47da2.png)
     
     
-                                            <!-- History-->
-    ![Screenshot (645)](https://user-images.githubusercontent.com/94986091/188492033-6c613a26-649e-4296-9712-bf37c5694017.png)
+                                           
+                                           <!-- History-->
+     ![Screenshot (645)](https://user-images.githubusercontent.com/94986091/188492033-6c613a26-649e-4296-9712-bf37c5694017.png)
     
     
-                                            <!-- Liked Videos-->
+                                          
+                                           <!-- Liked Videos-->
     
     ![Screenshot (646)](https://user-images.githubusercontent.com/94986091/188492092-922edd4a-c32e-48ff-a848-35e387508b29.png)
 
